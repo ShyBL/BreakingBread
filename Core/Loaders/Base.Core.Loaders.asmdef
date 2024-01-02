@@ -1,0 +1,19 @@
+{
+    "name": "Base.Core.Loaders",
+    "rootNamespace": "",
+    "references": [
+        "Base.Core.Components",
+        "Base.Core.Managers",
+        "Unity.TextMeshPro",
+        "DOTween.Modules"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

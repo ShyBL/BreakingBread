@@ -1,0 +1,16 @@
+{
+    "name": "Base.Core.Components",
+    "rootNamespace": "",
+    "references": [
+        "Base.Core.Managers"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
