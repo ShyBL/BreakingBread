@@ -6,11 +6,6 @@
 This project is a Unity C# idle mobile game that serves as a showcase of programming architecture principles, particularly focusing on the application of SOLID principles. 
 The game utilizes third-party packages such as Firebase for backend functionalities, and DoTween for smooth animations.
 
-### Prerequisites
-
-This project uses Unity (version 2022.3.2f1), and the Firebase SDK (version 11.6). 
-For other packages, see the manifest file.
-
 ## Features
 
 ### Showcase of SOLID principles in game architecture
