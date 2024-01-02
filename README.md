@@ -1,5 +1,5 @@
 # BreakingBread
-![Idle Bakery Store Icon](https://i.imgur.com/iNppjlg.png)
+<video src="https://github.com/ShyBL/BreakingBread/assets/78258828/84c6653b-39db-4745-be83-710695d9fc50" width=180><video/>
 
 ## Overview
 
