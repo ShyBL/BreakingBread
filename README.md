@@ -1,5 +1,6 @@
 # BreakingBread
 ![Idle Bakery Store Icon](https://i.imgur.com/iNppjlg.png)
+
 ## Overview
 
 This project is a Unity C# idle mobile game that serves as a showcase of programming architecture principles, particularly focusing on the application of SOLID principles. 
