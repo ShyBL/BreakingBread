@@ -1,10 +1,12 @@
 # BreakingBread
-<video src="https://github.com/ShyBL/BreakingBread/assets/78258828/517429dd-eb93-4e96-884e-b133007503a0" width=180><video/>
+
 
 ## 📱Overview
 
 This project is a Unity C# idle mobile game that serves as a showcase of programming architecture principles, particularly focusing on the application of SOLID principles. 
 The game utilizes third-party packages such as Firebase for backend functionalities, and DoTween for smooth animations.
+
+<video src="https://github.com/ShyBL/BreakingBread/assets/78258828/517429dd-eb93-4e96-884e-b133007503a0" width=180><video/>
 
 ## 🛠️Features
 
